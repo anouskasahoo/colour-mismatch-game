@@ -20,3 +20,10 @@ Install `pygame` using pip:
 
 ```bash
 pip install pygame
+```
+
+## Screenshots
+
+| Game Screen | Lose Screen |
+|-----------|-----------|
+| <img src="./mismatch.png" width="300"/> | <img src="./lose.png" width="300"/> |
